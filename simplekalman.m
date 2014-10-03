@@ -1,4 +1,4 @@
-%% KALMANTEST Simple Kalman filter for testing
+%% SIMPLEKALMAN Simple Kalman filter for testing
 %
 % Author: Daniel Clark, 2013
 %
