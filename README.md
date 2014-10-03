@@ -1,4 +1,4 @@
-matlabtools
+matlab-tools
 ===========
 
 MATLAB functions I've created for use
