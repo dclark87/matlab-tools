@@ -1,4 +1,4 @@
-matlab-tools
+matlabtools
 ===========
 
 MATLAB functions I've created for use
@@ -7,6 +7,3 @@ quampy.m - Function which takes two quaternions and performs a quaternion multip
   Source: Kuipers, Jack B. Quaternions and Rotation Sequences: A Primer with Applications to Orbits, Aerospace, and Virtual Reality. Princeton, NJ: Princeton UP, 1999. Print.
 
 simplekalman.m - A simple Kalman filter for cleaning 1-dimensional input voltage signals. Can be modified to be more complex.
-
-Author: Daniel Clark, 2013
-Email: danieljclark87@gmail.com
